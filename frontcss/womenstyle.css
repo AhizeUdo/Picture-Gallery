@@ -1,0 +1,71 @@
+.wenbody {
+    margin: 0%;
+    padding: 0%;
+    background-image: linear-gradient(rgb(218, 228, 83),pink, pink, white);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+.wennav {
+    margin: 0%;
+    padding: 0%;
+}
+
+.wennav ul {
+    text-align: right;
+
+}
+
+.wennav ul li {
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+}
+
+.wennav ul li a {
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+}
+
+.wennav ul li a:hover {
+    background-color: peachpuff;
+}
+
+
+.wparaone aside p {
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: monospace;
+    margin: 0%;
+    padding: 0%;
+
+
+}
+
+ .wparaone aside h1 {
+    margin: 0%;
+    padding: 0%;
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.wendivone ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin: 19px;
+    padding: 15px;
+
+}
+

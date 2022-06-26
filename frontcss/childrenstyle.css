@@ -1,0 +1,87 @@
+
+.chinav {
+    margin: 0%;
+    padding: 0%;
+}
+
+.chinav ul {
+    text-align: right;
+
+}
+
+.chinav ul li {
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+}
+
+.chinav ul li a {
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+}
+
+.chinav ul li a:hover {
+    background-color: blue;
+}
+
+
+.chiparaone p {
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: monospace;
+    margin: 0%;
+    padding: 0%;
+
+
+}
+
+
+ .chiparaone h1 {
+    margin: 0%;
+    padding: 0%;
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.chidivone ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin: 10px;
+    padding: 8px;
+
+}
+
+#animate {
+    width: auto;
+    height: 700px;
+    background-image: url(../imagesr/Childrenbackground.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation-name: children;
+    animation-duration: 35s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes children {
+    0% {background-image: url(../imagesr/cmain1.jpeg);}
+    10% {background-image: url(../imagesr/cmain2.jpeg);}
+    20% {background-image: url(../imagesr/cmain3.jpeg);}
+    30% {background-image: url(../imagesr/cmain4.jpeg);}
+    50% {background-image: url(../imagesr/cmain5.jpeg);}
+    60% {background-image: url(../imagesr/cmain6.jpeg);}
+    70% {background-image: url(../imagesr/cmain7.jpeg);}
+    80% {background-image: url(../imagesr/cmain8.jpeg);}
+    90% {background-image: url(../imagesr/cmain9.jpeg);}
+    100% {background-image: url(../imagesr/cmain10.jpeg);}
+}
+

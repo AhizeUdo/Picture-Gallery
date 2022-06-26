@@ -1,0 +1,48 @@
+.frontbody {
+    margin: 0%;
+    padding: 0%;
+    background-image: url(../imagesr/forntbackground.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+.frontdiv1 {
+    float: left;
+    width: 50%;
+}
+
+.frontdiv2 {
+    float: right;
+    width: 50%;
+}
+
+.frontnav {
+    margin: 0%;
+    padding: 0%;
+}
+
+.frontnav ul {
+    text-align: right;
+
+}
+
+.frontnav ul li {
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+}
+.frontnav ul li a {
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+}
+
+.frontnav ul li a:hover {
+    background-color: black;
+}
+

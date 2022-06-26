@@ -1,0 +1,64 @@
+.detailsnav {
+    margin: 0%;
+    padding: 0%;
+}
+
+.detailsnav ul {
+    text-align: right;
+
+}
+
+.detailsnav ul li {
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+}
+
+.detailsnav ul li a {
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+}
+
+.detailsnav ul li a:hover {
+    background-color: blue;
+}
+
+.debody {
+    background-image: url(../imagesr/detailsbackgroound.jpeg)
+}
+
+.dedivone {
+    float: left ;
+    width: 50%;
+}
+
+.dedivtwo {
+    float: right;
+    width: 50%;
+}
+
+.dedivtwo header {
+    margin: 0%;
+    padding: 0%;
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.dedivtwo p {
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: monospace;
+    margin: 0%;
+    padding: 0%;
+
+}
